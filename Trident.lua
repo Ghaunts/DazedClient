@@ -2279,7 +2279,7 @@ do
         Position = UDim2.fromOffset(5, 2),
         TextXAlignment = Enum.TextXAlignment.Center,
         
-        Text = 'Key Binds';
+        Text = 'Dazed Key Binds';
         ZIndex = 104;
         Parent = KeybindInner;
     });
